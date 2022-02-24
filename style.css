@@ -1,0 +1,272 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.header {
+    background-color : rgba(0,0,0,0.7);
+    color : lightgrey;
+    text-align: center;
+    margin: auto;
+    padding : auto;
+}
+
+.titre {
+    color : red;
+}
+
+.container{
+    width : 980px;
+    margin : 0 auto;
+    background-color : white;
+    padding : 20px;
+}
+
+body {
+    background-color : lightgrey;
+}
+
+
+.degrade1{
+  width: auto;
+  height: auto;
+}
+
+.linear-gradient {
+    display : grid;
+    background: linear-gradient(180deg, yellow, red);
+}
+
+.degrade2{
+  width: auto;
+  height: auto;
+}
+
+.linear-gradient2 {
+    display : grid;
+    background: linear-gradient(180deg, green,yellow, red);
+}
+
+.degrade3{
+  width: auto;
+  height: auto;
+}
+
+.linear-gradient3 {
+    display : grid;
+    background: linear-gradient(70deg, green,yellow, red);
+}
+
+.degrade4{
+  width: auto;
+  height: auto;
+}
+
+.linear-gradient4 {
+    display : grid;
+    background: linear-gradient(to right, green 25%, yellow 28px, red 50%);
+}
+
+.degrade5{
+  width: auto;
+  height: auto;
+}
+
+.linear-gradient5 {
+    display : grid;
+    background: repeating-linear-gradient(-45deg, green, green 5px, yellow 5px, red 10px);
+}
+
+.degrade6{
+  width: auto;
+  height: auto;
+}
+
+.linear-gradient6 {
+    display : grid;
+    background: radial-gradient(yellow, red);
+}
+
+.degrade7{
+  width: auto;
+  height: auto;
+}
+
+.linear-gradient7 {
+    display : grid;
+    background: radial-gradient(circle,yellow, red);
+}
+
+.degrade8{
+  width: auto;
+  height: auto;
+}
+
+.linear-gradient8 {
+    display : grid;
+    background: radial-gradient(ellipse at center,yellow, red);
+}
+
+.degrade9{
+  width: auto;
+  height: auto;
+}
+
+.linear-gradient9 {
+    display : grid;
+    background: radial-gradient(circle at 25%,yellow, red);
+}
+
+.container2{
+    width : 980px;
+    margin : 0 auto;
+    padding : 20px;
+    background-color : white
+    
+}
+
+.ombre{
+  width: auto;
+  height: auto;
+  
+}
+
+.box-shadow {
+    display : grid;
+    background-color : lightgrey;
+    box-shadow: 1px 1px 1px grey;
+     padding : 20px;
+}
+
+.ombre1{
+  width: auto;
+  height: auto;
+}
+
+.box-shadow1 {
+    display : grid;
+    background-color : lightgrey;
+    box-shadow: 10px 10px 10px grey;
+    padding : 20px;
+}
+
+.ombre2{
+  width: auto;
+  height: auto;
+}
+
+.box-shadow2 {
+    display : grid;
+    background-color : lightgrey;
+    box-shadow: inset 0 0 10px grey;
+     padding : 20px;
+}
+
+.ombre3{
+  width: auto;
+  height: auto;
+}
+
+.box-shadow3 {
+    display : grid;
+    background-color : lightgrey;
+    box-shadow: 8px 8px 8px red;
+    padding : 20px;
+}
+
+.ombre4{
+  width: auto;
+  height: auto;
+}
+
+.box-shadow4 {
+    display : grid;
+    background-color : lightgrey;
+    box-shadow: 0 0 5px 5px red;
+     padding : 20px;
+}
+
+.ombre5{
+  width: auto;
+  height: auto;
+}
+
+.box-shadow5 {
+    display : grid;
+    background-color : lightgrey;
+    box-shadow: 5px 5px 10px green, 10px 10px 20px yellow, 15px 15px 25px red;
+     padding : 20px;
+}
+
+.container3{
+    width : 980px;
+    margin : 0 auto;
+    padding : 20px;
+    background-color : white
+    
+}
+
+.ombretxt{
+  width: auto;
+  height: auto;
+}
+
+.text-shadow {
+    display : grid;
+    background-color : lightgrey;
+    color : white;
+    text-shadow: 1px 1px 2px black;
+    padding : 40px;
+}
+
+.ombretxt1{
+  width: auto;
+  height: auto;
+}
+
+.text-shadow1 {
+    display : grid;
+    background-color : lightgrey;
+    color : white;
+    text-shadow: 10px 5px 5px black;
+    padding : 40px;
+}
+
+.ombretxt2{
+  width: auto;
+  height: auto;
+}
+
+.text-shadow2 {
+    display : grid;
+    background-color : lightgrey;
+    color : white;
+    text-shadow: 10px 5px 5px red;
+    padding : 40px;
+}
+
+.ombretxt3{
+  width: auto;
+  height: auto;
+}
+
+.text-shadow3 {
+    display : grid;
+    background-color : lightgrey;
+    color : white;
+    text-shadow: 10px 5px 5px red, 10px 5px 5px green, 10px 5px 5px yellow;
+    padding : 40px;
+}
+
+.footer2{
+  background-color: rgba(0,0,0,0.8);
+  color : lightgrey;
+}
+
+.image{
+  text-align : center;
+}
+
+.blabla{
+  text-align : center;
+}
